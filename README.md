@@ -1,2 +1,2 @@
-# WebView
- WebView Flutuante utilizando Electron
+# webview-simple
+ WebView flutuante - Electron
