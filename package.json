@@ -19,7 +19,7 @@
   "homepage": "https://github.com/Camila-00/webview-simple#readme",
   "dependencies": {
     "-": "0.0.1",
-    "electron": "^9.0.0",
+    "electron": "^9.3.0",
     "electron-packager": "^14.2.1",
     "g": "^2.0.1"
   },
